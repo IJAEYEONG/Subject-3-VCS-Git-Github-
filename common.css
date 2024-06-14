@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h2{
+ background-color: #fcc500; 
+ color: white;
+}
+p{
+  background-color: skyblue;
+  color: white;
+}
